@@ -2,5 +2,5 @@
 - 👀 I’m interested in Full Stack development.
 - ❤️ I love solving complex problems and building massively scalable systems.
 - 🌱 I’m currently learning Rust
-- ✍️ I blog at [blog.kumaranvram.com](blog.kumaranvram.com)
+- ✍️ I blog at [blog.kumaranvram.com](https://blog.kumaranvram.com/)
 - 📫 You can reach me at **m e [a t] k u m a r a n v r a m [d o t] c o m**
